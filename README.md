@@ -10,12 +10,6 @@ This repository contains a TensorFlow implementation of Convolutional Neural Net
 - Support for both MNIST-like datasets and custom image datasets
 - Data augmentation and preprocessing pipelines
 
-## Requirements
-
-- Python 3.7 or higher
-- TensorFlow 2.8 or higher
-- Additional dependencies listed in `requirements.txt`
-
 ## Installation
 
 1. Clone this repository:
@@ -89,8 +83,3 @@ The basic CNN model achieves approximately 99% accuracy on the MNIST test set. R
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Based on concepts from various deep learning resources and tutorials
-- Uses TensorFlow and Keras frameworks
